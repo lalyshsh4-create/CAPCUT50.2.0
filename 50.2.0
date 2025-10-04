@@ -2,12 +2,12 @@
   {
     "appName": "CapCut",
     "packageName": "com.lemon.lvoverseas",
-    "versionCode": 15301600,
+    "versionCode": 15201600,
     "updateUrl": "https://t.me/fotball_kora",
     "title": "تحديث جديد !",
     "description": "What's New!.\n1. New Ui Design\n2. improved performance\n4. Stable Ui Design",
     "isForce": false,
-    "isExpired": false,
+    "isExpired": true,
     "expiryDate": "2021-09-01",
     "closeButtonText": "Exit",
     "updateButtonText": "Update Now!"
